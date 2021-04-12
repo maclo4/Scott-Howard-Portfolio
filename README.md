@@ -1,5 +1,8 @@
 # Scott Howard Portfolio
 
+- Scotthowy96@gmail.com
+- 248-875-6072
+
 ## Fighting Game (In Progress)
 
 This is a personal project that I've been working on in my free time since October 2020-ish. It's very much still in progress, but it's a fighting game made in Unity with C#. 
@@ -32,6 +35,8 @@ https://github.com/maclo4/Fighting-Game
 - Unity
 - Krita for drawing
 
+---
+
 ## Automated Indoor Mapping System
 
 Automated Indoor Mapping System for the Misty II Robot. This was created while I was working at The Car Lab as a student research assistant. The goal of the project was basically to make a program that would allow the Misty II robot to create maps of rooms without the need for a human to manually drive her around. The best comparison is how roombas roam around and make maps as they go.
@@ -56,6 +61,8 @@ https://github.com/maclo4/AIMS
 - MistyII robot
 - Misty robot SDK for .NET
 
+---
+
 ## e.DO Manual Control using ROS2
 
 This project allows for users to control the e.DO robotic arm from a Linux terminal. This was created for my senior project with a group of 3 other students. 
@@ -75,6 +82,8 @@ https://github.com/comau-na/edo-ROS2
 - ros1_bridge package
 - ncurses
 
+---
+
 ## Secure S3FS
 
 
@@ -91,5 +100,23 @@ https://github.com/maclo4/Secure-S3fs
 - S3fs-fuse: https://github.com/s3fs-fuse/s3fs-fuse
 - OpenSSL
 
+---
 
+## Humdrum
 
+Humdrum is a social media music website that allows users to share music with their friends. Users are able to link their humdrum account to their spotify account to share playlists and search for music/artists. In addition, there is a rating and posting feature to provide feedback on different music. Although I'm not necessarily proud of the end product, this was a fun project to work on because it was originally my idea and because it was the first time I had worked with databases, an API (Spotify's), and PHP. This was created for a group project in school where I was the team lead. Unfortunately, I don't think that the database for this website is still online, so it is probably not usable. 
+
+**Link to the website**
+
+https://humdrum-php.azurewebsites.net/
+
+**Link to the full repository with more details**
+
+https://github.com/WSU-4110/humdrum
+
+**Tech Stack**
+- PHP
+- MySQL, PHPMyAdmin
+- Spotify's API
+- HTML
+- CSS
