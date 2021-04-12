@@ -79,6 +79,7 @@ https://github.com/comau-na/edo-ROS2
 - C++
 - ROS1 Melodic
 - ROS2 Eloquent
+- Ubuntu
 - ros1_bridge package
 - ncurses
 
@@ -99,7 +100,7 @@ https://github.com/maclo4/Secure-S3fs
 - Amazon S3
 - S3fs-fuse: https://github.com/s3fs-fuse/s3fs-fuse
 - OpenSSL
-
+- Ubuntu
 ---
 
 ## Humdrum
