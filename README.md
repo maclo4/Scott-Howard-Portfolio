@@ -15,7 +15,7 @@ This is a personal project that I've been working on in my free time since Octob
 
 ![Animations](https://media.giphy.com/media/XRlhIb6RHaASuKBUMV/giphy.gif)
 
-Ive made attacks an inheritable class that allows for every attack in the game to be customized easily with little code. Set various attributes like hitstun, blockstun, set the attack to mid, overhead, or low, etc.
+I've made attacks an inheritable class that allows for every attack in the game to be customized easily with little code. Set various attributes like hitstun, blockstun, set the attack to mid, overhead, or low, etc.
 
 **Link to the full repository with more details**
 https://github.com/maclo4/Fighting-Game
