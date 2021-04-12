@@ -106,7 +106,7 @@ https://github.com/maclo4/Secure-S3fs
 
 ## Humdrum
 
-Humdrum is a social media music website that allows users to share music with their friends. Users are able to link their humdrum account to their spotify account to share playlists and search for music/artists. In addition, there is a rating and posting feature to provide feedback on different music. Although I'm not necessarily proud of the end product, this was a fun project to work on because it was originally my idea and because it was the first time I had worked with databases, an API (Spotify's), and PHP. This was created for a group project in school where I was the team lead. Unfortunately, I don't think that the database for this website is still online, so it is probably not usable. 
+Humdrum is a social media music website that allows users to share music with their friends. Users are able to link their humdrum account to their spotify account to share playlists and search for music/artists. In addition, there is a rating and posting feature to provide feedback on different music. Although I know I could do better if I made this today, this was a fun project to work on because it was my originally idea and because it was the first time I had worked with databases, an API (Spotify's), and PHP. This was created for a group project in school where I was the team lead. Unfortunately, I don't think that the database for this website is still online, so it is probably not usable. 
 
 **Link to the website**
 
