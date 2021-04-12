@@ -40,6 +40,7 @@ https://github.com/maclo4/Fighting-Game
 ## Automated Indoor Mapping System
 
 Automated Indoor Mapping System for the Misty II Robot. This was created while I was working at The Car Lab as a student research assistant. The goal of the project was basically to make a program that would allow the Misty II robot to create maps of rooms without the need for a human to manually drive her around. The best comparison is how roombas roam around and make maps as they go.
+
 **Hazard Avoidance**
 
 ![Hazard Avoidance](https://media.giphy.com/media/DzWGP3dPzqHUSxHiQP/giphy.gif)
