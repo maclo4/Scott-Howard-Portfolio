@@ -3,9 +3,40 @@
 - Scotthowy96@gmail.com
 - 248-875-6072
 
-## Fighting Game (In Progress)
 
-This is a personal project that I've been working on in my free time since October 2020-ish. It's very much still in progress, but it's a fighting game made in Unity with C#. 
+## Rhythm-Game - https://github.com/maclo4/Rhythm-Game
+
+
+The concept for this game is that you control a cursor with each analog stick of a controller and you need to hit notes on beat as they move from the center of the circle to the edge. It's pretty simple but can get difficult fast.
+
+
+**Videos**
+
+https://youtu.be/tA04m_2d-A0 - Most recent version as of 2/21/2022
+- Can now specify using the left or right cursor for each note
+- Made loading songs much more dynamic by reading metadata and notemap from a special file format
+- Removed clicking noise when hitting a note and added buzzer noise when failing (I may revert this)
+- Some UI changes
+
+
+
+
+https://youtu.be/iFzs5d51aK8 - 9/29/2021
+- First video demonstrating the basic mechanics
+- Checks if you hit the notes on beat or not
+- Reads notemap from file but not metadata such as bpm, title, or artist
+
+## 24/7 lofi marble simulator to relax/study/sleep to
+
+![Marble Sim](https://imgur.com/gallery/pLdiS34)
+Easily my favorite thing I've made. It's a marble course that I made with Unity and Blender that goes forever. I sometimes stream it on twitch with lofi beats playing in the background. I want to make it actually run 24/7 but it's very expensive to find a computer that can stay on at all times simulating this and streaming at the same time.
+
+https://www.twitch.tv/maclo6
+
+
+## Fighting Game - https://github.com/maclo4/Fighting-Game
+
+This was the first game I ever worked on- I love fighting games and aliens so I had a lot of fun learning Unity while doing this. I ended up putting it aside because I wanted to focus on a game that I could finish in a reasonable amount of time while working full time. The idea for this was to make a very free-form fighting game with mechanics similar to Under Night: In-Birth, except with more air mobility and defensive options.
 
 **Game Overview as of April 12 2021**
 
