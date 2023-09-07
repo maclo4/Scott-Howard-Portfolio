@@ -3,6 +3,51 @@
 - Scotthowy96@gmail.com
 - 248-875-6072
 
+## IO Pizza Co - [https://maclo4.itch.io/io-pizza-co](https://maclo4.itch.io/io-pizza-co)
+
+![Game Overview](https://media.giphy.com/media/nLU8ADErMTlI7micg7/giphy.gif)
+
+2D platformer made for Bullet Hell Jam 2023
+
+Deliver pizza’s on Jupiter’s deadliest planet, Io.
+
+## IX - [https://maclo4.itch.io/io-pizza-co](https://maclo4.itch.io/ix)
+
+![Game Overview](https://media.giphy.com/media/PjMcEZPl5eLX0ViyV4/giphy.gif)
+
+3D Horror game made for Brackey's Game Jam 2023.2
+
+Descend through the 9 Circles of Hell to escape death.
+
+## Platformer Squared - [https://maclo4.itch.io/platformersquared](https://maclo4.itch.io/platformersquared)
+
+![Game Overview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdjaDUzNDBteWlqaGtyd2xoMXVqOThlbXdqeXlucHViamc3MXh3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ysM2rIvWGPUvCzfcPU/giphy.gif)
+
+2D platformer made for Brackey's Game Jam 2023.1
+
+2D platformer where each level rotates as you play
+
+## Polterheist - [https://maclo4.itch.io/polterheist](https://maclo4.itch.io/polterheist)
+
+![Game Overview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODUweGFscnZueTVsYW1rcXA0NDhwMWp4N241Njl0aDB0ZDUyM2VhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRPYdlC7pKnIwqVbCm/giphy.gif)
+
+2D arcade game created for Juice Jam 2023.
+
+Steal as much as possible while avoiding ghoulish mall security to reach a high score.
+
+## SolarSim - [https://maclo4.itch.io/solarsim](https://maclo4.itch.io/solarsim)
+
+![Game Overview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFta2UxOWtuNG9xNmYxeWtoaXZqeG8xYXBhcTFsdjV2NGlxeWlxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jOCemsOMYcTqABWrsZ/giphy.gif)
+
+2D platformer made for Brackey's Game Jam 2023.1
+
+Simulate solar systems by setting a variety of options such as number of planets, strength of gravity, initial velocity, initial positions, and more. 
+
+
+
+
+# OLDER PROJECTS
+
 
 ## Rhythm-Game - https://github.com/maclo4/Rhythm-Game
 
