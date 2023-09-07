@@ -25,7 +25,7 @@ Descend through the 9 Circles of Hell to escape death.
 
 2D platformer made for Brackey's Game Jam 2023.1
 
-2D platformer where each level rotates as you play
+Each level rotates as you play
 
 ## Polterheist - [https://maclo4.itch.io/polterheist](https://maclo4.itch.io/polterheist)
 
