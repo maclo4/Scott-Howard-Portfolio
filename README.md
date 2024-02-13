@@ -11,9 +11,15 @@
 
 Deliver pizza’s on Jupiter’s deadliest planet, Io.
 
-## IX - [https://maclo4.itch.io/io-pizza-co](https://maclo4.itch.io/ix)
+## Super Cutie Beanie Ball - [https://maclo4.itch.io/ix](https://maclo4.itch.io/super-cutie-beanie-ball)
 
-![Game Overview](https://media.giphy.com/media/PjMcEZPl5eLX0ViyV4/giphy.gif)
+![Game Overview](https://media.giphy.com/media/cUnWF6cfuAPDl1W1zP/giphy.gif)
+
+Simply a clone of one of my favorite games, Super Monkey Ball
+
+## IX - [https://maclo4.itch.io/ix](https://maclo4.itch.io/ix)
+
+![Game Overview](https://media.giphy.com/media/J76BlXACYg44zCj6nL/giphy.gif)
 
 3D Horror game made for Brackey's Game Jam 2023.2
 
