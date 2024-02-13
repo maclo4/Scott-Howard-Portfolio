@@ -50,6 +50,33 @@ Steal as much as possible while avoiding ghoulish mall security to reach a high 
 Simulate solar systems by setting a variety of options such as number of planets, strength of gravity, initial velocity, initial positions, and more. 
 
 
+## Automated Indoor Mapping System
+
+Automated Indoor Mapping System for the Misty II Robot. This was created while I was working at The Car Lab as a student research assistant. The goal of the project was to make a program that would allow the Misty II robot to create maps of rooms without the need for a human to manually drive her around. The best comparison is how roombas roam around and make maps as they go.
+
+**Hazard Avoidance**
+
+![Hazard Avoidance](https://media.giphy.com/media/DzWGP3dPzqHUSxHiQP/giphy.gif)
+
+When using my program, Misty is able to detect and avoid obstacles in her way. For the video above, I placed objects close to her front and back to se if she would successfully find her way out.
+
+**Full Room Roam Video**
+
+https://youtu.be/js8Hn0BxE64
+
+This was too long to fit into a gif, it shows what the program looks like from start to finish of making a map.
+
+**Link to the full repository with more details**
+
+https://github.com/maclo4/AIMS
+
+**Tech Stack**
+- C#, involves event based and asynchronous programming
+- MistyII robot
+- Misty robot SDK for .NET
+
+---
+
 
 
 # OLDER PROJECTS
